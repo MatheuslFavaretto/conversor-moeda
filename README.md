@@ -8,7 +8,7 @@ Conversor de Moeda em tempo real utlizando a biblioteca httpx e uma api pública
 
 # instalação
 - pip install httpx
-- 
+
 #### para realizar a conversão :
 - execute Main.py
 ![image](https://user-images.githubusercontent.com/116848225/211287397-1964f87e-5f98-4a14-a49e-4fc166ceb818.png)
